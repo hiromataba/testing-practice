@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiromataba/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiromataba/testing-practice/issues"
+  },
+  "homepage": "https://github.com/hiromataba/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
