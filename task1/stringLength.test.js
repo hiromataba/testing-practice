@@ -7,5 +7,5 @@ test('Should return "4" if the length of ', () => {
   expect(stringLength('hiro')).toBe(4);
 });
 test('Should return "4" if the length of ', () => {
-  expect(stringLength(0)).toBe('Conditions are not met');
+  expect(stringLength(0)).toBe('conditions are not met');
 });

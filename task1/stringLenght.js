@@ -1,4 +1,4 @@
-function stringLength(text){
+const  stringLength = (text) => {
   if(text.length === 1){
     return 1
   }
@@ -6,7 +6,7 @@ function stringLength(text){
     return text.length
   }
   else {
-    return "Conditions are not met"
+    return "conditions are not met"
   }
 }
 
